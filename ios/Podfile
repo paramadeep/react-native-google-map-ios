@@ -1,0 +1,11 @@
+platform :ios, '9.3'
+use_frameworks!
+
+target 'MedMap' do
+ pod 'GoogleMaps'
+end
+
+target 'MedMapTests' do
+
+end
+
