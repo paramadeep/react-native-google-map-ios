@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   },
   map: {
     height: 300,
-    margin: 10,
+    margin: 40,
     borderWidth: 1,
     borderColor: '#000000',
   }
